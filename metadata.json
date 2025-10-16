@@ -1,0 +1,5 @@
+{
+  "name": "AI Color Palette Generator",
+  "description": "An AI-powered web application that generates beautiful color palettes from text descriptions using the Gemini API. Users can input a theme, mood, or idea, and the AI will create a corresponding set of colors, complete with hex codes for easy copying.",
+  "requestFramePermissions": []
+}
